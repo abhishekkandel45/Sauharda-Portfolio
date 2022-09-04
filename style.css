@@ -316,6 +316,9 @@ section .title::after{
 
 /* New Code */
 
+.skills .title::after{
+    content: "what i know";
+}
 
 .skill-content {
     display: grid;
